@@ -10,7 +10,7 @@ import org.springframework.core.env.Environment;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
-import com.formacionbdi.springboot.app.productos.models.entity.Producto;
+import com.formacionbdi.springboot.app.commons.models.entity.Producto;
 import com.formacionbdi.springboot.app.productos.models.service.IProductoService;
 
 @RestController
